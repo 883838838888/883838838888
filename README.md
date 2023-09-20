@@ -12,6 +12,13 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e estou sempre em busca 
 - 💬 Pergunte-me sobre qualquer coisa relacionada à programação e tecnologia. Estou aqui para ajudar!
 - 📫 Como me alcançar: lucas.rodrigues67337@alunos.ufersa.edu.br.
 
+  <div align="center">
+
+   ![gif](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
+   
+</div>
+
+
 ### Linguagens e Ferramentas
 
 ![Linguagens](https://t3.ftcdn.net/jpg/03/21/24/30/360_F_321243084_GstfWflk1eTLlzUdRZ5mjoP5IG1iCc8J.jpg)
